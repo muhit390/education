@@ -1,0 +1,196 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+.banner{
+	padding: 180px 0 230px;
+}
+.banner h1{
+	font-size: 28px;
+	font-weight: 700;
+	
+}
+	.c_btn{
+		padding: 10px 120px;
+	}
+	.kids_education{
+		text-align: center;
+	}
+	.kids_education_heading h1{
+		font-size: 35px;
+	}
+	.mini_hr hr{
+		width: auto;
+	}
+	.activities_heading h1{
+		font-size: 35px;
+	}
+	.activities_discription-pic{
+	text-align: center;
+	margin-bottom: 10px;
+	
+}
+   .activities_discription-pic img{
+	 margin-top: 30px;
+	border-radius: 50%;
+	border: 5px solid #eb751d;
+}
+	.activities_discription ul{
+		margin-top: 60px;
+	}
+	.activities_discription ul li{
+		margin-bottom: 100px;
+	}
+	.courses{
+		text-align: center;
+	}
+	.courses_heading h1{
+		font-size: 35px;
+		}
+	.courses_card{
+		padding: 0;
+	margin-top: 50px;
+		margin-left: 40px;
+	}
+	.card_singel{
+		margin-right: 0px;
+		margin-left: 30px;
+	}
+	.memory{
+		text-align: center;
+	}
+	.teacher{
+		text-align: center;
+	}
+	.teacher-heading{
+		font-size: 35px;
+	}
+	.teacher_info{
+		margin-top: 50px;
+	}
+	.teacher_pic{
+		margin-bottom: 20px;
+	}
+	.event{
+		text-align: center;
+	}
+	.event_timeline_singel h3{
+		font-size: 18px;
+	}
+	.event_heading2  {
+		margin-top: 40px;
+
+	}
+	.event_heading1 hr {
+		width: auto;
+	}
+	.event_heading2 hr {
+		width: auto;
+
+	}
+	.contect{
+		text-align: center;
+	}
+	.insta{
+		margin-top: 40px;
+	}
+	.contect_us{
+		margin-top: 40px;
+	}
+	.newsletter{
+		margin-top: 40px;
+	}
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.banner{
+	padding: 200px 0 270px;
+}
+.banner h1{
+	font-size: 32px;
+	font-weight: 700;
+	
+}
+	.c_btn{
+		padding: 10px 150px;
+	}
+	.kids_education{
+		text-align: center;
+	}
+	.kids_education_heading h1{
+		font-size: 38px;
+	}
+	.mini_hr hr{
+		width: auto;
+	}
+	.activities_discription ul li{
+		margin-bottom: 120px;
+	}
+	.courses_heading h1{
+		font-size: 38px;
+		}
+	.insta{
+		margin-top: 30px;
+	}
+	
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+.banner{
+	padding: 250px 0 300px;
+}
+.banner h1{
+	font-size: 35px;
+	font-weight: 700;
+	
+}
+	.c_btn{
+		padding: 10px 180px;
+	}
+	.courses_card{
+	margin-top: 70px;
+		margin-left: 50px;
+}
+	.card_singel{
+		margin-left: 20px;
+		margin-top: 30px;
+	}
+	.memory{
+		text-align: center;
+	}
+	.event h1{
+		text-align: center;
+	}
+	.event_heading1 hr {
+		width: auto;
+	}
+	.event_heading2 hr {
+		width: auto;
+	}
+	.event_heading2  {
+		margin-top: 40px;
+
+	}
+	.contect{
+		text-align: center;
+	}
+	.insta{
+		margin-top: 40px;
+	}
+	.contect_us{
+		margin-top: 60px;
+	}
+	.newsletter{
+		margin-top: 60px;
+	}
+	
+}
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+	.c_btn{
+		padding: 10px 350px;
+	}
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { ... }
